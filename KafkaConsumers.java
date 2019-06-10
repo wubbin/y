@@ -10,6 +10,8 @@ import java.util.Arrays;
 import java.util.Properties;
 
 /**
+ *  git 修改版本 1.0
+ *
  * 此方法为kafka在IDEA中的消费者API使用情况：
  * 开启此消费者后，需要在 linux控制台 或者 开启IDEA中kafka的producer程序，
  * 开启之后：会在此消费者程序控制台上输出消费的信息
